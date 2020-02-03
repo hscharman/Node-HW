@@ -1,6 +1,6 @@
 # Node-HW
 
-This app presents a customer with purchase options by connecting to a MySQL database containing a list of products, each product's ID number, and the quantity in stock. The app also utilizes Inquirer to ask the customer questions about the purchase they would like to make. Customers can request a product, purchase a product, or exit the shop. 
+This app presents a customer with purchase options by connecting to a MySQL database containing a list of products, each product's ID number, and the quantity in stock. The app also utilizes Inquirer to ask the customer questions about the purchase they would like to make. Customers can request a product, make a purchase, or exit the shop. 
 
 # How it Works
 
