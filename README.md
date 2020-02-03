@@ -14,7 +14,7 @@ If the item and quantity are available, the purchase will be made successfully. 
 
 # To Leave the App
 
-If the user wants to exit the shop at any point, they can do so by typing "q" and will receive a goodbye message.
+If the user wants to exit the shop at any point, they can do so by entering "q" and will see a goodbye message.
 
 <img width="512" alt="exit" src="https://user-images.githubusercontent.com/53710485/73638496-c15d2f80-4627-11ea-8251-ca904f52fd87.PNG">
 
