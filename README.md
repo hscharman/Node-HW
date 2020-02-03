@@ -4,7 +4,7 @@ This app presents a customer with purchase options by connecting to a MySQL data
 
 # How it Works
 
-First, the customer is prompted to enter the ID # of the product they wish to buy. If the item is not available, the user will be notified and prompted to pick something else. If the item is available but the quantity the user wants to buy is not in stock, the customer will see an "insufficient quantity" message and again be prompted to request an item.
+First, the customer is prompted to enter the ID # of the product they wish to buy. If the item is not available, the user will be notified and prompted to pick something else. If the item is available but the requested quantity is not in stock, the customer will see an "insufficient quantity" message and again be prompted to request an item.
 
 If the item and quantity are available, the purchase will be made successfully. A confirmation message will appear with the product name and quantity purchased. 
 
